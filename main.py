@@ -5,3 +5,15 @@ if b == "+":
  print ("Ответ =",a + c)
 elif b == "-":
  print ("Ответ =",a - c)
+elif b == "*":
+ print ("Ответ =",a * c)
+elif b == "/":
+ print ("Ответ =",a / c)
+elif b == "//":
+ print ("Ответ =",a // c)
+elif b == "%":
+ print ("Ответ =",a % c)
+elif b == "**":
+ print ("Ответ =",a ** c)
+elif b == "=":
+ print ("Ответ =",a = c)
